@@ -1,0 +1,14 @@
+header,
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(6, 124, 242);
+
+}
+button{
+    width: 80px;
+    padding: 6px;
+    color: rgb(0, 169, 0);
+    border-color: forestgreen;
+}
